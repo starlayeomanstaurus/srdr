@@ -2067,7 +2067,7 @@ robert_roasts = [
 "Ross: 'Burnout says keep going. I say welcome to my tenure track of emotional collapse.'",
 "Ross: 'Focus Problems? Like me giving a lecture no one asked for. Everyone’s asleep. Including me.'",
 "Ross: 'OCD? Ah yes. Because everything MUST be perfect. Just like my first wedding. Oh wait.'",
-"Ross: 'Time Blindness: "Five minutes" means an episode, a nap, and existential dread.'",
+"Ross: 'Time Blindness: \"Five minutes\" means an episode, a nap, and existential dread.'",
 
 "Ross: 'Sound Overstimulation is like listening to Janice laugh on repeat. Torture.'",
 "Ross: 'Grounding? Oh, like the time I tried being mature? Short-lived. Let’s try again.'",
@@ -2081,37 +2081,12 @@ robert_roasts = [
 "Ross: 'Obsessive thoughts on loop? Spotify Premium for intrusive bullshit.'",
 "Ross: 'Burnout says do more. I say let’s break for snacks and an existential crisis.'",
 
-"Ross: 'Time Blindness says you have time. It’s lying. Like Rachel’s "Its fine."'",
+"Ross: 'Time Blindness says you have time. It’s lying. Like Rachel’s \"Its fine.\"'",
 "Ross: 'Dissociation: Mentally leaving the chat before the argument even starts.'",
 "Ross: 'Panic says RUN. I say let’s talk about it for 5 hours and ruin the vibe.'",
 "Ross: 'Overwhelm is Monica-level cleaning panic. Calm the hell down.'"
 "Ross: 'Insomnia planning your future failures at 3am. Productive, sure.'"
 ]
-robert_final_boss = [
-
-"Ross (Final Boss): 'OH MY GOD. Anxiety, you are the Janice of mental health. Loud. Annoying. And NO ONE INVITED YOU. GET. THE. FUCK. OUT.'",
-
-"Ross (Final Boss): 'Panic attacks? Oh goodie! My favorite way to feel like I'm dying in a Best Buy parking lot at 2am. Seriously? Get your shit together.'",
-
-"Ross (Final Boss): 'Depression, you mopey piece of shit. Stop monologuing like Shadow the Hedgehog at Hot Topic. We get it. You’re sad. Now let me SLEEP.'",
-
-"Ross (Final Boss): 'Overwhelm is like trying to PIVOT a goddamn couch through my frontal lobe. Spoiler alert: IT DOESN’T FIT. Take something the fuck off the list.'",
-
-"Ross (Final Boss): 'Insomnia? Oh sure. Let’s lay awake and plan 900 ways to ruin my life before sunrise. Love that for us. Fuck you, Insomnia.'"
-]
-# ASCII art for Final Boss (paste your full art inside the triple quotes)
-ross_final_boss_art = """
-[PASTE YOUR FULL ASCII ART HERE]
-"""
-
-# Final Boss meltdown lines (the Rated R Ross lines)
-robert_final_boss = [
-    "Ross (Final Boss): 'OH MY GOD. Anxiety, you are the Janice of mental health. Loud. Annoying. And NO ONE INVITED YOU. GET. THE. FUCK. OUT.'",
-    "Ross (Final Boss): 'Panic attacks? Oh goodie! My favorite way to feel like I'm dying in a Best Buy parking lot at 2am. Seriously? Get your shit together.'",
-    "Ross (Final Boss): 'Depression, you mopey piece of shit. Stop monologuing like Shadow the Hedgehog at Hot Topic. We get it. You’re sad. Now let me SLEEP.'",
-    "Ross (Final Boss): 'Overwhelm is like trying to PIVOT a goddamn couch through my frontal lobe. Spoiler alert: IT DOESN’T FIT. Take something the fuck off the list.'",
-    "Ross (Final Boss): 'Insomnia? Oh sure. Let’s lay awake and plan 900 ways to ruin my life before sunrise. Love that for us. Fuck you, Insomnia.'"
-]# Final Boss ASCII Art (paste your full ASCII art exactly like this)
 ross_final_boss_art = """
 ▗▄▄▖  ▗▄▖  ▗▄▄▖ ▗▄▄▖
 ▐▌ ▐▌▐▌ ▐▌▐▌   ▐▌   
@@ -2147,14 +2122,14 @@ ross_final_boss_art = """
       @@@@@@@@ ""^^^"`" ...  W@          0@Z1 @.,;l,I:<__:~_;@@@@@@@@      
       @@@@@@@@ '';,,^"'.'^..  @z@~  0@0Qp  @@@@];lI>il~-!>+_`@@@@@@@@      
       @@@@@@@@ `'`:^^:`^"^'.. l            @`  /I;:ll-<I>_<_^@@@@@@@@      
-      @@@@@@@@ ``^.""":`^`... C            @  @{l!!>>><-~<>+,@@@@@@@@      
-      @@@@@@@@ """'^'''^^",.^ n              @W``;!lIi><<+<_I@@@@@@@@      
+      @@@@@@@@ ``^.\"\"\":`^`... C            @  @{l!!>>><-~<>+,@@@@@@@@      
+      @@@@@@@@ \"\"\"'^'''^^",.^ n              @W``;!lIi><<+<_I@@@@@@@@      
       @@@@@@@@ ....^'``^^^".. ^r           )  1'll!l;i!I---},@@@@@@@@      
       @@@@@@@@ '''^^^....'. ,.`i_ 0@          OnI,I!>_<<-~+]:@@@@@@@@      
       @@@@@@@@ ""^''`^""^^".'"'"1.      r      hwx~~>i<<i+<_:@@@@@@@@      
       @@@@@@@@ `:,,:"...`''"^^^^"|m   'v         _',<>~~<++]^@@@@@@@@      
-      @@@@@@@@ ;:I;;I;:"""",,,;,,^"]J.''       @@@@;>>_[]+>_:@@@@@@@@      
-      @@@@@@@@ ;::;;:l,^""":;"I:' -@@  >     @@M1+-ZQ,!><-})!@@@@@@@@      
+      @@@@@@@@ ;:I;;I;:\"\"\"",,,;,,^"]J.''       @@@@;>>_[]+>_:@@@@@@@@      
+      @@@@@@@@ ;::;;:l,^\"\"\":;"I:' -@@  >     @@M1+-ZQ,!><-})!@@@@@@@@      
       @@@@@@@@.;l!;i<<<~~<<li:I ]@@$@`   Q@@@h-(1j_{/OC-_}{}!@@@@@@@@      
       @@@@@@@@ l<ii><i!>>~+iliI @@BM@@@@@WZ(}-[_{njcxrcw>1[[!@@@@@@@@      
       @@@@@@@@.>ilii<>>-<+~~_+Io$akCY/(1|f)([)|{(OrZ(vCCh{_[!@@@@@@@@      
@@ -2302,14 +2277,6 @@ robert_roasts_by_symptom = {
     "Grounding": robert_roasts_grounding,
 }
 
-# 3) Secret Final-Boss ASCII art + Rated-R meltdown lines:
-ross_final_boss_art = """
-▗▄▄▖  ▗▄▖  ▗▄▄▖ ▗▄▄▖
-▐▌ ▐▌▐▌ ▐▌▐▌   ▐▌   
-▐▛▀▚▖▐▌ ▐▌ ▝▀▚▖ ▝▀▚▖
-▐▌ ▐▌▝▚▄▞▘▗▄▄▞▘▗▄▄▞▘
- …[your full ASCII art pasted here]…
-"""
 
 robert_final_boss = [
     "Ross (Final Boss): 'OH MY GOD. Anxiety, you are the Janice of mental health. Loud. Annoying. And NO ONE INVITED YOU. GET. THE. FUCK. OUT.'",
