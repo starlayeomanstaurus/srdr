@@ -2067,7 +2067,7 @@ robert_roasts = [
 "Ross: 'Burnout says keep going. I say welcome to my tenure track of emotional collapse.'",
 "Ross: 'Focus Problems? Like me giving a lecture no one asked for. Everyone’s asleep. Including me.'",
 "Ross: 'OCD? Ah yes. Because everything MUST be perfect. Just like my first wedding. Oh wait.'",
-"Ross: 'Time Blindness: "Five minutes" means an episode, a nap, and existential dread.'",
+"Ross: 'Time Blindness: \"Five minutes\" means an episode, a nap, and existential dread.'",
 
 "Ross: 'Sound Overstimulation is like listening to Janice laugh on repeat. Torture.'",
 "Ross: 'Grounding? Oh, like the time I tried being mature? Short-lived. Let’s try again.'",
@@ -2081,7 +2081,7 @@ robert_roasts = [
 "Ross: 'Obsessive thoughts on loop? Spotify Premium for intrusive bullshit.'",
 "Ross: 'Burnout says do more. I say let’s break for snacks and an existential crisis.'",
 
-"Ross: 'Time Blindness says you have time. It’s lying. Like Rachel’s "Its fine."'",
+"Ross: 'Time Blindness says you have time. It’s lying. Like Rachel’s \"Its fine.\"'",
 "Ross: 'Dissociation: Mentally leaving the chat before the argument even starts.'",
 "Ross: 'Panic says RUN. I say let’s talk about it for 5 hours and ruin the vibe.'",
 "Ross: 'Overwhelm is Monica-level cleaning panic. Calm the hell down.'"
@@ -2147,14 +2147,14 @@ ross_final_boss_art = """
       @@@@@@@@ ""^^^"`" ...  W@          0@Z1 @.,;l,I:<__:~_;@@@@@@@@      
       @@@@@@@@ '';,,^"'.'^..  @z@~  0@0Qp  @@@@];lI>il~-!>+_`@@@@@@@@      
       @@@@@@@@ `'`:^^:`^"^'.. l            @`  /I;:ll-<I>_<_^@@@@@@@@      
-      @@@@@@@@ ``^.""":`^`... C            @  @{l!!>>><-~<>+,@@@@@@@@      
-      @@@@@@@@ """'^'''^^",.^ n              @W``;!lIi><<+<_I@@@@@@@@      
+      @@@@@@@@ ``^.\"\"\":`^`... C            @  @{l!!>>><-~<>+,@@@@@@@@
+      @@@@@@@@ \"\"\"'^'''^^",.^ n              @W``;!lIi><<+<_I@@@@@@@@
       @@@@@@@@ ....^'``^^^".. ^r           )  1'll!l;i!I---},@@@@@@@@      
       @@@@@@@@ '''^^^....'. ,.`i_ 0@          OnI,I!>_<<-~+]:@@@@@@@@      
       @@@@@@@@ ""^''`^""^^".'"'"1.      r      hwx~~>i<<i+<_:@@@@@@@@      
       @@@@@@@@ `:,,:"...`''"^^^^"|m   'v         _',<>~~<++]^@@@@@@@@      
-      @@@@@@@@ ;:I;;I;:"""",,,;,,^"]J.''       @@@@;>>_[]+>_:@@@@@@@@      
-      @@@@@@@@ ;::;;:l,^""":;"I:' -@@  >     @@M1+-ZQ,!><-})!@@@@@@@@      
+      @@@@@@@@ ;:I;;I;:\"\"\"",,,;,,^"]J.''       @@@@;>>_[]+>_:@@@@@@@@
+      @@@@@@@@ ;::;;:l,^\"\"\":;"I:' -@@  >     @@M1+-ZQ,!><-})!@@@@@@@@
       @@@@@@@@.;l!;i<<<~~<<li:I ]@@$@`   Q@@@h-(1j_{/OC-_}{}!@@@@@@@@      
       @@@@@@@@ l<ii><i!>>~+iliI @@BM@@@@@WZ(}-[_{njcxrcw>1[[!@@@@@@@@      
       @@@@@@@@.>ilii<>>-<+~~_+Io$akCY/(1|f)([)|{(OrZ(vCCh{_[!@@@@@@@@      
